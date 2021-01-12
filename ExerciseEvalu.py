@@ -7,7 +7,7 @@ print("Naofal is", Naofal - Chaimae, "Jaar jonger dan Chaimae")
 print("Loujain is", Loujain - Abdelaziz, "Jaar ouder dan Abdelaziz ")
 
 leeftijd = input("Hoe oud is Chaimae?")
-print("Chaimae is", leeftijd, "Oud!!"36
+print("Chaimae is", leeftijd, "Oud!!"
       )
 
 name = input("What is your name? ")

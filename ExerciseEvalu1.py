@@ -12,7 +12,7 @@ print(f"Ik zei ook {y}.")
 hilarisch = "Hola"
 grap_evaluatie = "Is deze grap niet grapig?! {} "
 print(grap_evaluatie.format(hilarisch))
-w = "Dit is de linkerkant van ..."
+w = "Dit is de linkerkant van ....."
 e = "Dit is de rechterkant van de string"
 
 print(w+e)

@@ -5,9 +5,9 @@ prompt = '>'
 print(f"Hi {user_name}, I'm the {script} script.")
 
 print("I'd like to ask you a few questions.")
-print(f"Do you like my {user_name}?")
+print(f"Do you like my {script}?")
 likes = input(prompt)
-print(f"I heard that your password is {password}")
+print(f"I heard that your password is {password} Can you repeat it please?")
 password = input(prompt)
 print(f"Where do you live {name}?")
 lives = input(prompt)
